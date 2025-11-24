@@ -1,0 +1,22 @@
+{
+  "name": "vancouver-fountains-api",
+  "version": "1.0.0",
+  "description": "API for Vancouver drinking fountains",
+  "main": "server.js",
+  "engines": {
+    "node": ">=22.5.0 <23.0.0"
+  },
+  "scripts": {
+    "dev": "node --watch --env-file=.env server.js",
+    "build": "npm install",
+    "start": "node server.js"
+  },
+  "keywords": ["vancouver", "fountains", "hydration"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}

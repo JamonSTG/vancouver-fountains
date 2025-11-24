@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.parcel-cache/
+.env
+*.db
+*.log
+.DS_Store
+express/data/
+react/dist/

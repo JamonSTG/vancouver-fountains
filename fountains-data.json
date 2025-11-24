@@ -1,0 +1,212 @@
+[
+  {
+    "mapid": "DRKG-001",
+    "name": "Stanley Park Seawall Fountain",
+    "location": "Stanley Park Seawall near Second Beach",
+    "inpark": "Y",
+    "latitude": 49.2937,
+    "longitude": -123.1456,
+    "maintainer": "Board of Parks and Recreation",
+    "note": "Regular fountain",
+    "geo_point_2d": {
+      "lon": -123.1456,
+      "lat": 49.2937
+    }
+  },
+  {
+    "mapid": "DRKG-002",
+    "name": "Queen Elizabeth Park Fountain",
+    "location": "Queen Elizabeth Park - Main Plaza",
+    "inpark": "Y",
+    "latitude": 49.2409,
+    "longitude": -123.1134,
+    "maintainer": "Board of Parks and Recreation",
+    "note": "Bottle filling station",
+    "geo_point_2d": {
+      "lon": -123.1134,
+      "lat": 49.2409
+    }
+  },
+  {
+    "mapid": "DRKG-003",
+    "name": "Granville Island Fountain",
+    "location": "Granville Island - Public Market Plaza",
+    "inpark": "N",
+    "latitude": 49.2714,
+    "longitude": -123.1343,
+    "maintainer": "Engineering Services",
+    "note": "Regular fountain",
+    "geo_point_2d": {
+      "lon": -123.1343,
+      "lat": 49.2714
+    }
+  },
+  {
+    "mapid": "DRKG-004",
+    "name": "Kitsilano Beach Fountain",
+    "location": "Kitsilano Beach Park - Near Volleyball Courts",
+    "inpark": "Y",
+    "latitude": 49.2747,
+    "longitude": -123.1560,
+    "maintainer": "Board of Parks and Recreation",
+    "note": "Bottle filling station",
+    "geo_point_2d": {
+      "lon": -123.1560,
+      "lat": 49.2747
+    }
+  },
+  {
+    "mapid": "DRKG-005",
+    "name": "English Bay Beach Fountain",
+    "location": "English Bay Beach - Main Beach Area",
+    "inpark": "Y",
+    "latitude": 49.2872,
+    "longitude": -123.1444,
+    "maintainer": "Board of Parks and Recreation",
+    "note": "Regular fountain",
+    "geo_point_2d": {
+      "lon": -123.1444,
+      "lat": 49.2872
+    }
+  },
+  {
+    "mapid": "DRKG-006",
+    "name": "Trout Lake Park Fountain",
+    "location": "Trout Lake Park - Community Centre",
+    "inpark": "Y",
+    "latitude": 49.2546,
+    "longitude": -123.0659,
+    "maintainer": "Board of Parks and Recreation",
+    "note": "Bottle filling station",
+    "geo_point_2d": {
+      "lon": -123.0659,
+      "lat": 49.2546
+    }
+  },
+  {
+    "mapid": "DRKG-007",
+    "name": "Sunset Beach Fountain",
+    "location": "Sunset Beach Park - East End",
+    "inpark": "Y",
+    "latitude": 49.2797,
+    "longitude": -123.1407,
+    "maintainer": "Board of Parks and Recreation",
+    "note": "Regular fountain",
+    "geo_point_2d": {
+      "lon": -123.1407,
+      "lat": 49.2797
+    }
+  },
+  {
+    "mapid": "DRKG-008",
+    "name": "Vanier Park Fountain",
+    "location": "Vanier Park - Near Museum of Vancouver",
+    "inpark": "Y",
+    "latitude": 49.2746,
+    "longitude": -123.1422,
+    "maintainer": "Board of Parks and Recreation",
+    "note": "Bottle filling station",
+    "geo_point_2d": {
+      "lon": -123.1422,
+      "lat": 49.2746
+    }
+  },
+  {
+    "mapid": "DRKG-009",
+    "name": "David Lam Park Fountain",
+    "location": "David Lam Park - Seawall Path",
+    "inpark": "Y",
+    "latitude": 49.2722,
+    "longitude": -123.1252,
+    "maintainer": "Board of Parks and Recreation",
+    "note": "Regular fountain",
+    "geo_point_2d": {
+      "lon": -123.1252,
+      "lat": 49.2722
+    }
+  },
+  {
+    "mapid": "DRKG-010",
+    "name": "Jericho Beach Fountain",
+    "location": "Jericho Beach Park - Main Beach",
+    "inpark": "Y",
+    "latitude": 49.2739,
+    "longitude": -123.1970,
+    "maintainer": "Board of Parks and Recreation",
+    "note": "Bottle filling station",
+    "geo_point_2d": {
+      "lon": -123.1970,
+      "lat": 49.2739
+    }
+  },
+  {
+    "mapid": "DRKG-011",
+    "name": "Stanley Park Lost Lagoon Fountain",
+    "location": "Stanley Park - Lost Lagoon Path",
+    "inpark": "Y",
+    "latitude": 49.2959,
+    "longitude": -123.1389,
+    "maintainer": "Board of Parks and Recreation",
+    "note": "Regular fountain",
+    "geo_point_2d": {
+      "lon": -123.1389,
+      "lat": 49.2959
+    }
+  },
+  {
+    "mapid": "DRKG-012",
+    "name": "Creekside Park Fountain",
+    "location": "Creekside Park - Olympic Village",
+    "inpark": "Y",
+    "latitude": 49.2688,
+    "longitude": -123.1088,
+    "maintainer": "Board of Parks and Recreation",
+    "note": "Bottle filling station",
+    "geo_point_2d": {
+      "lon": -123.1088,
+      "lat": 49.2688
+    }
+  },
+  {
+    "mapid": "DRKG-013",
+    "name": "Robson Square Fountain",
+    "location": "Robson Square - Downtown",
+    "inpark": "N",
+    "latitude": 49.2817,
+    "longitude": -123.1202,
+    "maintainer": "Engineering Services",
+    "note": "Regular fountain",
+    "geo_point_2d": {
+      "lon": -123.1202,
+      "lat": 49.2817
+    }
+  },
+  {
+    "mapid": "DRKG-014",
+    "name": "Oppenheimer Park Fountain",
+    "location": "Oppenheimer Park - DTES",
+    "inpark": "Y",
+    "latitude": 49.2812,
+    "longitude": -123.0992,
+    "maintainer": "Board of Parks and Recreation",
+    "note": "Regular fountain",
+    "geo_point_2d": {
+      "lon": -123.0992,
+      "lat": 49.2812
+    }
+  },
+  {
+    "mapid": "DRKG-015",
+    "name": "Rupert Park Fountain",
+    "location": "Rupert Park - East Vancouver",
+    "inpark": "Y",
+    "latitude": 49.2558,
+    "longitude": -123.0337,
+    "maintainer": "Board of Parks and Recreation",
+    "note": "Bottle filling station",
+    "geo_point_2d": {
+      "lon": -123.0337,
+      "lat": 49.2558
+    }
+  }
+]
